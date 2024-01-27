@@ -25,7 +25,7 @@ public class Animals {
         System.out.println(getType() + " поплыл ");
     }
 
-    public void jastDoIt(){
+    public void justDoIt(){
         toGo();
         fly();
         swim();
